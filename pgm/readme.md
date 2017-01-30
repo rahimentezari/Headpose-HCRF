@@ -1,0 +1,1 @@
+For Classification I have used Linear Chain Conditional Random Fields. In this stage, extracted features(a file foe each video, consists of vecots of 9 values for each frame) are the input of model. <br/ >
